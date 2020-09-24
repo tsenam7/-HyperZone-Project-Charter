@@ -1,0 +1,2 @@
+# -HyperZone-Project-Charter
+In order to enhance the customer’s ability to access the sensors as fast and easy as possible to ensure convenience a smartphone application will be developed to be compatible for desktop, ios/Android smartphones and tablets. The proposed upgrades will not remove from the current process offered by the Amount Sensors, but rather increase accessibility and quality by enhancing the products experience and utility through use of the application.
